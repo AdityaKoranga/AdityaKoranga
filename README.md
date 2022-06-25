@@ -9,9 +9,7 @@
 ## 🙋‍♂️ About Me
 <!-- <h2 align="left"> <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="30px"> About Me</h2> -->
 
-- 🔭 I’m currently working on **zkRollups & Post-Quantum Encryption**
-
-- 🌱 I’m currently learning **zkSnarks**
+- 🔭 I’m currently working on **Cloud, Post-Quantum Encryption and zkRollups**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
