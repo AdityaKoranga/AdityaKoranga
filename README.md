@@ -8,7 +8,7 @@
 
 <!-- ## 🙋‍♂️ About Me -->
 <!-- <h2 align="left"> <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="30px"> About Me</h2> -->
-- 👋 Hi, I am Aditya Koranga
+- 👋 Hi, I am **Aditya Koranga**
 - 🔭 I’m currently working on **5G and Devops**
 - 👯 I have also worked on **Cryptography, Post-Quantum Encryption and zkRollups**
 - 👨‍💻 All of my works are available at **[My Portfolio](https://github.com/AdityaKoranga?tab=repositories)**
