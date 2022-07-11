@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **5G and Devops**
 - 👯 I have also worked on **Cryptography, Post-Quantum Encryption and zkRollups**
 - 👨‍💻 All of my works are available at **[My Portfolio](https://github.com/AdityaKoranga?tab=repositories)**
-- 📫 Reach me at: <a href = "https://www.linkedin.com/in/aditya-koranga-061517220/"><img src="https://img.icons8.com/fluent/32/000000/linkedin.png"/></a> <a href = "https://twitter.com/AddyTiv"><img src="https://img.icons8.com/fluent/32/000000/twitter.png"/></a>
+- 📫 How to reach me: <a href = "https://www.linkedin.com/in/aditya-koranga-061517220/"><img src="https://img.icons8.com/fluent/32/000000/linkedin.png"/></a> <a href = "https://twitter.com/AddyTiv"><img src="https://img.icons8.com/fluent/32/000000/twitter.png"/></a>
 
 <!-- - 📫 How to reach me **xtraddybot@gmail.com**, LinkedIn: **https://www.linkedin.com/in/aditya-koranga-061517220/** -->
 
