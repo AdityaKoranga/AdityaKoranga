@@ -1,25 +1,25 @@
-<p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I'm%20Aditya%20Koranga%20👋;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+<!-- <p align="center">
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I'm%20Aditya%20Koranga%20👋;&font=Pacifico&center=true&width=650&height=70&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <div align = "left">
   <img  align=right alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
-<br>
+<br> -->
 
 
-## 🙋‍♂️ About Me
+<!-- ## 🙋‍♂️ About Me -->
 <!-- <h2 align="left"> <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="30px"> About Me</h2> -->
+- 👋 Hi, I am Aditya Koranga
+- 🔭 I’m currently working on **5G and Devops**
+- 👯 I have also worked on **Cryptography, Post-Quantum Encryption and zkRollups**
+- 👨‍💻 All of my works are available at **[My Portfolio](https://github.com/AdityaKoranga?tab=repositories)**
+- 📫 Reach me at: <a href = "https://www.linkedin.com/in/aditya-koranga-061517220/"><img src="https://img.icons8.com/fluent/32/000000/linkedin.png"/></a> <a href = "https://twitter.com/AddyTiv"><img src="https://img.icons8.com/fluent/32/000000/twitter.png"/></a>
 
-- 🔭 I’m currently working on **5G, Cryptography & Post-Quantum Encryption and zkRollups**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/AdityaKoranga?tab=repositories)**
-
-- 📫 How to reach me **xtraddybot@gmail.com**
-
+<!-- - 📫 How to reach me **xtraddybot@gmail.com**, LinkedIn: **https://www.linkedin.com/in/aditya-koranga-061517220/** -->
 
 
-<br/>
+
+
+<!-- <br/> -->
 <!-- 
 ## 🚀 Languages and Tools:
 
@@ -38,16 +38,16 @@
 
 <br/> -->
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/AdityaKoranga/github-readme-stats"><img alt="ADITYA's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AdityaKoranga&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/AdityaKoranga/github-readme-stats"><img alt="ADITYA's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKoranga&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+  <br/> -->
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
 
-<br/>
+<!-- <br/>
 <br/>
 
 <a href="https://github.com/AdityaKoranga/github-readme-activity-graph"><img alt="ADITYA's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AdityaKoranga&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
@@ -58,7 +58,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/aditya-koranga-061517220/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/aditya-koranga-061517220/"><img src="https://img.icons8.com/fluent/25/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/AddyTiv"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 
@@ -69,4 +69,4 @@
 <a href="https://github.com/AdityaKoranga/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AddyTiv">
 </a>
-<a href="https://github.com/AdityaKoranga?tab=followers"><img src="https://img.shields.io/github/followers/AdityaKoranga?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/AdityaKoranga?tab=followers"><img src="https://img.shields.io/github/followers/AdityaKoranga?label=Followers&style=social" alt="GitHub Badge"></a> -->
