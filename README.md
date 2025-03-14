@@ -9,8 +9,6 @@
 <!-- ## 🙋‍♂️ About Me -->
 <!-- <h2 align="left"> <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="30px"> About Me</h2> -->
 - 👋 Hi, I am **Aditya Koranga**
-- 🔭 I’m currently working on **B5G, ORAN & Post-Quantum Cryptography**
-- 👯 I have also worked on **DevOps & zkRollups**
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/aditya-koranga/"><img src="https://img.icons8.com/fluent/32/000000/linkedin.png"/></a> <a href = "https://twitter.com/AddyTiv"><img src="https://img.icons8.com/fluent/32/000000/twitter.png"/></a>
 
 <!-- - 📫 How to reach me **xtraddybot@gmail.com**, LinkedIn: **https://www.linkedin.com/in/aditya-koranga-061517220/** -->
